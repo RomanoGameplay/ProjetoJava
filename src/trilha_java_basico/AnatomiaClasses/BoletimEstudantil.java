@@ -1,4 +1,4 @@
-package trilha_java_basico;
+package trilha_java_basico.AnatomiaClasses;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {

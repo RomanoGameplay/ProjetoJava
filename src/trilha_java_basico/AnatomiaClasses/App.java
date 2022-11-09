@@ -1,4 +1,4 @@
-package trilha_java_basico;
+package trilha_java_basico.AnatomiaClasses;
 
 public class App {
     public static void main(String [] args){
