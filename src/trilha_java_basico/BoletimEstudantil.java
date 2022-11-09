@@ -9,6 +9,5 @@ public class BoletimEstudantil {
                     System.out.println("Prova Minerva");
                 else
                     System.out.println("Aprovado!");
-
     }
 }
