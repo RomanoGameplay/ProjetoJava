@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Criação da pasta Operadores e da classe Operadores.java">
+    <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Modificações na classe Operadores.java">
+      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/Metodos/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/Metodos/SmartTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/Metodos/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/trilha_java_basico/Operadores/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trilha_java_basico/Operadores/Operadores.java" afterDir="false" />
     </list>
@@ -42,13 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.Operadores">
+}]]></component>
+  <component name="RunManager" selected="Application.trilha_java_basico.Metodos.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trilha_java_basico.AnatomiaClasses.App" />
       <module name="ProjetosJava" />
@@ -101,8 +105,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="trilha_java_basico.Metodos.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.Metodos.App" />
+      <module name="ProjetosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trilha_java_basico.Metodos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.trilha_java_basico.Metodos.App" />
         <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.Variaveis" />
         <item itemvalue="Application.BoletimEstudantil" />
@@ -175,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668002037184</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Modificações na classe Operadores.java">
+      <created>1668003511262</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668003511262</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +221,7 @@
     <MESSAGE value="Criação de pasta TiposVariaveis e realocação das classes App e BoletimEstudantil para pasta AnatomiaClasses" />
     <MESSAGE value="Modificacao da classe Variaveis" />
     <MESSAGE value="Criação da pasta Operadores e da classe Operadores.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação da pasta Operadores e da classe Operadores.java" />
+    <MESSAGE value="Modificações na classe Operadores.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificações na classe Operadores.java" />
   </component>
 </project>
