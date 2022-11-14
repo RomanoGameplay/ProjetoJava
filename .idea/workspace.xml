@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Criação da pasta Metodos e das classe App, SmatTV e Usuario">
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/EntendendoMetodos/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaArrays/Ex1_OrdemInversa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaArrays/Ex2_Consoantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaArrays/Ex3_NumerosAleatorios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaArrays/Ex4_ArrayMultidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaRepeticao/EX6_Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaRepeticao/Ex1_NomeIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaRepeticao/Ex2_Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaRepeticao/Ex3_MaiorEMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaRepeticao/Ex4_ParEImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/ExerciciosEstruturaRepeticao/Ex5_Tabuada.java" afterDir="false" />
+    <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Criação de duas pastas referentes a exercícios com classes representando cada exercício.">
+      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/EntendendoMetodos/SobrecargaMetodos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,22 +49,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio1">
+  <component name="RunManager" selected="Application.SobrecargaMetodos">
     <configuration name="EX2_Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trilha_java_basico.ExerciciosEstruturaArrays.EX2_Consoantes" />
-      <module name="ProjetosJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="trilha_java_basico.ExerciciosEstruturaArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.ExerciciosEstruturaArrays.Ex1_OrdemInversa" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
@@ -125,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SobrecargaMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.EntendendoMetodos.SobrecargaMetodos" />
+      <module name="ProjetosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trilha_java_basico.EntendendoMetodos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SobrecargaMetodos" />
         <item itemvalue="Application.Exercicio1" />
         <item itemvalue="Application.Ex4_ArrayMultidimensional" />
         <item itemvalue="Application.Ex4_NumerosAleatorios" />
         <item itemvalue="Application.EX2_Consoantes" />
-        <item itemvalue="Application.Ex1_OrdemInversa" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668079311924</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Criação de duas pastas referentes a exercícios com classes representando cada exercício.">
+      <created>1668176878908</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668176878908</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +234,7 @@
     <MESSAGE value="Criação da pasta Operadores e da classe Operadores.java" />
     <MESSAGE value="Modificações na classe Operadores.java" />
     <MESSAGE value="Criação da pasta Metodos e das classe App, SmatTV e Usuario" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação da pasta Metodos e das classe App, SmatTV e Usuario" />
+    <MESSAGE value="Criação de duas pastas referentes a exercícios com classes representando cada exercício." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de duas pastas referentes a exercícios com classes representando cada exercício." />
   </component>
 </project>
