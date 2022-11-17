@@ -5,6 +5,7 @@ public class Calculadora implements OperacaoMatematica{
     @Override
     public void soma(double operando1, double operando2) {
         System.out.println(operando1+" + "+operando2+" = "+(operando1+operando2));
+        System.out.println("olá");
     }
 
     @Override
