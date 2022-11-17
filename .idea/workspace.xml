@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Criação de duas pastas referentes a exercícios com classes representando cada exercício.">
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/EntendendoMetodos/SobrecargaMetodos.java" afterDir="false" />
+    <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Resolução de exercícios e criação de Classe SobrecargaMetodos">
+      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/Classes/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/Classes/OperacaoMatematica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
