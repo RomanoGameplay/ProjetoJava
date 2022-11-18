@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Criação da interface OperacaoMatematica e da classe Calculadora">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/ExemploList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/ExemploList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/ExemploOrdenacaoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/ExemploOrdenacaoList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploList">
+  <component name="RunManager" selected="Application.ExemploOrdenacaoList">
     <configuration name="Ex4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trilha_java_basico.ExerciciosEstruturaArrays.Ex4_ArrayMultidimensional" />
       <module name="ProjetosJava" />
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4_NumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.ExerciciosEstruturaArrays.Ex4_NumerosAleatorios" />
+    <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.List.ExemploList" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trilha_java_basico.ExerciciosEstruturaArrays.*" />
+          <option name="PATTERN" value="trilha_java_basico.SobreCollections.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.List.ExemploList" />
+    <configuration name="ExemploOrdenacaoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.List.ExemploOrdenacaoList" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploOrdenacaoList" />
         <item itemvalue="Application.ExemploList" />
         <item itemvalue="Application.SobrecargaMetodos" />
         <item itemvalue="Application.Exercicio1" />
         <item itemvalue="Application.Ex4_ArrayMultidimensional" />
-        <item itemvalue="Application.Ex4_NumerosAleatorios" />
       </list>
     </recent_temporary>
   </component>
