@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Criação da interface OperacaoMatematica e da classe Calculadora">
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/ExemploList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/ExemploList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/ExemploList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
