@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Criação da interface OperacaoMatematica e da classe Calculadora">
+      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/Exercicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/ExemploOrdenacaoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/ExemploOrdenacaoList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +50,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploOrdenacaoList">
-    <configuration name="Ex4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.ExerciciosEstruturaArrays.Ex4_ArrayMultidimensional" />
-      <module name="ProjetosJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="trilha_java_basico.ExerciciosEstruturaArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercicio">
     <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.List.ExemploList" />
       <module name="ProjetosJava" />
@@ -90,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.EntendendoMetodos.Exercicio1" />
+    <configuration name="Exercicio (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.List.Exercicio" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trilha_java_basico.EntendendoMetodos.*" />
+          <option name="PATTERN" value="trilha_java_basico.SobreCollections.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SobrecargaMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.EntendendoMetodos.SobrecargaMetodos" />
+    <configuration name="Exercicio (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.List.Exercicio" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trilha_java_basico.EntendendoMetodos.*" />
+          <option name="PATTERN" value="trilha_java_basico.SobreCollections.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.List.Exercicio" />
+      <module name="ProjetosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trilha_java_basico.SobreCollections.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio" />
+        <item itemvalue="Application.Exercicio (2)" />
+        <item itemvalue="Application.Exercicio (1)" />
         <item itemvalue="Application.ExemploOrdenacaoList" />
         <item itemvalue="Application.ExemploList" />
-        <item itemvalue="Application.SobrecargaMetodos" />
-        <item itemvalue="Application.Exercicio1" />
-        <item itemvalue="Application.Ex4_ArrayMultidimensional" />
       </list>
     </recent_temporary>
   </component>
@@ -245,5 +245,16 @@
     <MESSAGE value="Criação de duas pastas referentes a exercícios com classes representando cada exercício." />
     <MESSAGE value="Criação da interface OperacaoMatematica e da classe Calculadora" />
     <option name="LAST_COMMIT_MESSAGE" value="Criação da interface OperacaoMatematica e da classe Calculadora" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/List/Exercicio.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
