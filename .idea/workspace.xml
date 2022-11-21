@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74095626-fd41-4031-8778-6614e8932eba" name="Changes" comment="Criação da interface OperacaoMatematica e da classe Calculadora">
-      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/Map/ExemploMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/Map/ExemploOrdenacaoMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trilha_java_basico/SobreCollections/Map/ExercicioMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
       <recent name="trilha_java_basico.SobreCollections.Set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploMap">
+  <component name="RunManager" selected="Application.ExercicioMap">
     <configuration name="ExemploMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.Map.ExemploMap" />
       <module name="ProjetosJava" />
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioSet (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.Set.ExercicioSet" />
+    <configuration name="ExemploOrdenacaoMap (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.Map.ExemploOrdenacaoMap" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trilha_java_basico.SobreCollections.Set.*" />
+          <option name="PATTERN" value="trilha_java_basico.SobreCollections.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioSet (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.Set.ExercicioSet" />
+    <configuration name="ExemploOrdenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.Map.ExemploOrdenacaoMap" />
       <module name="ProjetosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trilha_java_basico.SobreCollections.Set.*" />
+          <option name="PATTERN" value="trilha_java_basico.SobreCollections.Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.Map.ExercicioMap" />
+      <module name="ProjetosJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trilha_java_basico.SobreCollections.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trilha_java_basico.SobreCollections.Set.ExercicioSet" />
-      <module name="ProjetosJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="trilha_java_basico.SobreCollections.Set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExercicioMap" />
+        <item itemvalue="Application.ExemploOrdenacaoMap" />
+        <item itemvalue="Application.ExemploOrdenacaoMap (1)" />
         <item itemvalue="Application.ExemploMap" />
         <item itemvalue="Application.ExercicioSet (4)" />
-        <item itemvalue="Application.ExercicioSet" />
-        <item itemvalue="Application.ExercicioSet (3)" />
-        <item itemvalue="Application.ExercicioSet (2)" />
       </list>
     </recent_temporary>
   </component>
