@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86d949c3-d5a3-4064-b829-f9956f1e5f72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/desafio_pessoal_poo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafio_pessoal_poo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HwekSTyyP2PyICCSedgnhfWL2M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/sysroot/home/roamanogameplay/IdeaProjects/ProjetosJava"
+    "last_opened_file_path": "/sysroot/home/roamanogameplay/IdeaProjects/ProjetosJava/src"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
